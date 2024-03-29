@@ -1,1 +1,1 @@
-# Design-of-CNN-network-accelerator-based-on-SRAM-in-memory-computing
+# SRAM-CIM-based-CNN-accelerator-Design
